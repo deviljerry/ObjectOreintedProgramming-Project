@@ -1,2 +1,2 @@
 # Object Orinted Programming Semester Project
-all work related to First Semester
+2nd Semester Project
