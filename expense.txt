@@ -1,0 +1,4 @@
+RentOfBuilding
+1
+RentOfVehicle
+2
